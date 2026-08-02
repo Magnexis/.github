@@ -127,7 +127,7 @@ Bug reports, compatibility testing, documentation improvements, design feedback,
 
 | Channel | Link |
 | --- | --- |
-| Website | [magnexis.site](https://magnexis.site) |
+| Gravatar | [gravatar.com/magnexis](https://gravatar.com/magnexis) |
 | GitHub | [github.com/Magnexis](https://github.com/Magnexis) |
 | X | [x.com/Magnexis](https://x.com/Magnexis) |
 | DEV Community | [dev.to/magnexis](https://dev.to/magnexis) |
