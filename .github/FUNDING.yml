@@ -1,0 +1,3 @@
+# Default funding configuration for Magnexis repositories.
+# Repositories without their own FUNDING.yml inherit this file.
+github: Magnexis
