@@ -23,6 +23,14 @@ We build in the open because software is easier to trust, improve, and extend wh
 
 > Software should not be a black box.
 
+## Contributing
+
+Contributions are welcome. By submitting a contribution for inclusion in a
+Magnexis repository, contributors agree to the
+[Magnexis Individual Contributor License Agreement](../CLA.md). Contributors
+retain ownership of their work while granting Magnexis and downstream recipients
+the licenses necessary to use and distribute it.
+
 ## What We Build
 
 | Area | Focus |
