@@ -4,7 +4,7 @@
 
 ### Open-source developer infrastructure, languages, systems software, APIs, and experimental technology
 
-[![Website](https://img.shields.io/badge/Website-magnexis.site-111827?style=for-the-badge)](https://magnexis.site)
+[![Website](https://img.shields.io/badge/Website-magnexis.org-111827?style=for-the-badge)](https://magnexis.org)
 [![GitHub](https://img.shields.io/badge/GitHub-Magnexis-181717?style=for-the-badge&logo=github)](https://github.com/Magnexis)
 [![DEV Community](https://img.shields.io/badge/DEV-Community-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/magnexis)
 [![X](https://img.shields.io/badge/X-Magnexis-000000?style=for-the-badge&logo=x)](https://x.com/Magnexis)
